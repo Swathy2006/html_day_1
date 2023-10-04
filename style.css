@@ -1,0 +1,12 @@
+*{
+    background-color: aqua;
+}
+.myheading{
+    color: blueviolet;
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+    color: brown;
+    background-color: rgb(221, 221, 76);
+}
